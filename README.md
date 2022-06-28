@@ -16,7 +16,6 @@ As demonstrated by the Naive Random Oversampling images above:
 3.  The sensitivity for high risk loans is .63 vs. low risk loan sensitivity of .67.
 
 
-
 ### SMOTE Oversampling
 
 ![Smote Balanced Accuracy](https://user-images.githubusercontent.com/100809925/176235697-05fee692-2e83-4a1e-9b30-261d354a1500.jpeg)
@@ -29,5 +28,16 @@ As demonstrated by the SMOTE Oversampling images above:
 3.  The sensitivity for high risk loans is .64 vs. low risk loan sensitivity of .66.
 
 
-
 ### Undersampling
+
+![Undersampling Balanced accuracy score](https://user-images.githubusercontent.com/100809925/176238209-1323b95f-fbba-4c47-8196-6baab6d06a58.jpeg)
+
+![Undersampling precision and recall](https://user-images.githubusercontent.com/100809925/176238288-061b90a6-3d0e-4bf7-856c-d0e1b2a7cdef.jpeg)
+
+As demonstrated by the Undersampling images above: 
+1.  The balanced accuracy score is .51 or 51% accurate.
+2.  The precision for high risk loans is .01 or 1% accurate vs. low risk precision of 1.0 or ~100% accurate.
+3.  The sensitivity for high risk loans is .59 vs. low risk loan sensitivity of .43.
+
+
+### Combination (Over and Under) Sampling
