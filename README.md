@@ -53,3 +53,16 @@ As demonstrated by the Combination Sampling images above:
 3.  The sensitivity for high risk loans is .69 vs. low risk loan sensitivity of .55.
 
 
+### Balanced Random Forest Classifier
+
+
+![Balanced Random Forest Classifier Accuracy](https://user-images.githubusercontent.com/100809925/176245256-10d0cc53-9454-4a03-819d-fbb6fc4fba52.jpeg)
+
+![Balanced Random Forest Classifier P C](https://user-images.githubusercontent.com/100809925/176245291-186e819e-c8db-4e48-80a5-9b07465ee8bf.jpeg)
+
+As demonstrated by the Balanced Random Forest Classifier images above: 
+1.  The balanced accuracy score is .79 or 79% accurate.
+2.  The precision for high risk loans is .04 or 4% accurate vs. low risk precision of 1.0 or ~100% accurate.
+3.  The sensitivity for high risk loans is .67 vs. low risk loan sensitivity of .91.
+
+
