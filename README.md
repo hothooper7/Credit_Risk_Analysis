@@ -79,3 +79,8 @@ As demonstrated by the Easy Ensemble AdaBoost Classifier images above:
 2.  The precision for high risk loans is .07 or 7% accurate vs. low risk precision of 1.0 or ~100% accurate.
 3.  The sensitivity for high risk loans is .91 vs. low risk loan sensitivity of .94.
 
+
+ ## Summary
+ 
+Based on all of the models and algorithms, the Easy Ensemble AdaBoost Classifier is the most accurate at predicting credit risk.  Unfortunately, none of the models are particularly good at predicting high risk customers, which is perhaps the most important group.  Lending to high risk loan seekers is not a particularly good strategy, so I would recommend using the Easy Ensemble model in conjunction with other tests, such as interviewing potential loan candidates to gather more facts.  
+
