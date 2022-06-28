@@ -41,3 +41,15 @@ As demonstrated by the Undersampling images above:
 
 
 ### Combination (Over and Under) Sampling
+
+
+![Combination Sampling Balanced Accuracy Score](https://user-images.githubusercontent.com/100809925/176243909-f0dc328e-f02a-41b7-8239-05721acb0913.jpeg)
+
+![Combination Sampling Precision and recall](https://user-images.githubusercontent.com/100809925/176243958-91aca7e3-8642-42f8-963e-c83517ae6fcc.jpeg)
+
+As demonstrated by the Combination Sampling images above: 
+1.  The balanced accuracy score is .62 or 62% accurate.
+2.  The precision for high risk loans is .01 or 1% accurate vs. low risk precision of 1.0 or ~100% accurate.
+3.  The sensitivity for high risk loans is .69 vs. low risk loan sensitivity of .55.
+
+
