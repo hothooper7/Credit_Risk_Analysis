@@ -66,3 +66,16 @@ As demonstrated by the Balanced Random Forest Classifier images above:
 3.  The sensitivity for high risk loans is .67 vs. low risk loan sensitivity of .91.
 
 
+### Easy Ensemble AdaBoost Classifier
+
+
+![EEAC BAS](https://user-images.githubusercontent.com/100809925/176246723-6087de2f-b790-4d23-bc4d-00125912f2e5.jpeg)
+
+![EEAC P R](https://user-images.githubusercontent.com/100809925/176246775-97fc35e1-00af-4e11-8b34-3d8e7013b4c9.jpeg)
+
+
+As demonstrated by the Easy Ensemble AdaBoost Classifier images above: 
+1.  The balanced accuracy score is .93 or 93% accurate.
+2.  The precision for high risk loans is .07 or 7% accurate vs. low risk precision of 1.0 or ~100% accurate.
+3.  The sensitivity for high risk loans is .91 vs. low risk loan sensitivity of .94.
+
